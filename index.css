@@ -1,0 +1,126 @@
+body {
+margin: 0;
+}
+
+header {
+      background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bike.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.head-1 ul {
+    list-style: none;
+    margin-left: 200px;
+}
+
+.head-1 ul li {
+    display: inline-block;
+    margin-left: 90px;
+    font-size: 25px;
+    padding: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+.head {
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+span {
+    color: green;
+}
+.header {
+    color: #fff;
+    opacity: 0.8;
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+}
+
+
+.main-header {
+    text-align: center;
+}
+
+.description {
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    opacity: 0.7;
+}
+.description-1 ul {
+    list-style: none;
+    color: #fff;
+      font-family: 'Oswald', sans-serif;
+    opacity: 0.7;
+    font-size: 20px;
+}
+.description-1 ul li {
+    padding: 10px;
+}
+.logo{
+    width: 60px;
+    margin-left: 330px;
+    
+}
+.XL {
+    width: 360px;
+}
+.about-1 ul {
+    list-style: none;
+    margin-left: -40px;
+
+    
+}
+.about-1 ul li {
+
+    display: inline-block;
+    margin-left: 260px;
+}
+.about-1-1 {
+    width: 500px;
+      list-style: none;
+    color: black;
+      font-family: 'Oswald', sans-serif;
+    opacity: 0.7;
+    font-size: 40px;
+}
+.repair-1 ul {
+    list-style: none;
+    margin-top: 80px;
+}
+.repair-1 ul li {
+    display: inline-block;
+    margin-left: 225px;
+    
+}
+.repair {
+
+  width: 450px;  
+}
+
+.repair-1 {
+    background-color: rgba(242, 241, 239, 1);
+    
+}
+.places ul {
+
+    list-style: none;
+
+  
+    
+}
+.places ul li {
+
+    display: inline-block;
+   
+    margin-left: 190px;
+    margin-top: 30px;
+
+}
+.hiking {
+    width: 500px;
+    
+}
